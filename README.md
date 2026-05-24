@@ -1,6 +1,7 @@
 # Products-sales
 A data analytics project that uses a product sales Excel dataset (.xlsx) and an interactive dashboard to analyze sales performance, product categories, regional trends, payment methods, and discount impact on business revenue.
-📌 Project Overview
+
+# Project Overview
 This repository contains:
 Product Sales Dataset (.xlsx)
 Sales transactions
@@ -10,7 +11,7 @@ Payment methods
 Discount details
 Interactive Dashboard Built using Excel / Power BI / Tableau to provide visual insights into sales and business performance.
 The dashboard helps businesses monitor KPIs, identify trends, and make data-driven decisions.
-📊 Dashboard Features
+## Dashboard Features
 ✅ Sales Performance Analysis
 Total Revenue
 Total Profit

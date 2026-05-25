@@ -60,14 +60,13 @@ Seasonal sales trends
 Opportunities to improve business performance
 # How to Use
 1. Clone the Repository
-```Bash
+Bash
 https://github.com/sabaansari7110-max/Products-sales.git
-```
+
 2. Open the Dataset
 Navigate to the dataset/ folder and open:
-```Bash
-product_sales.xlsx
-```
+Bash
+https://github.com/sabaansari7110-max/Products-sales.git
 3. Open the Dashboard
 Use the appropriate software:
 Power BI Desktop (.pbix)

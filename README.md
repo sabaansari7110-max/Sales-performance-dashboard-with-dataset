@@ -11,57 +11,46 @@ Payment methods
 Discount details
 Interactive Dashboard Built using Excel / Power BI / Tableau to provide visual insights into sales and business performance.
 The dashboard helps businesses monitor KPIs, identify trends, and make data-driven decisions.
-## Dashboard Features
-✅ Sales Performance Analysis
+# Dashboard Features
+## Sales Performance Analysis
 Total Revenue
 Total Profit
 Sales Growth Trends
 Monthly & Quarterly Analysis
-✅ Product Category Insights
+## Product Category Insights
 Best-Selling Categories
 Top Products by Revenue
 Category-wise Profit Analysis
 Product Performance Comparison
-✅ Regional Sales Insights
+## Regional Sales Insights
 Region-wise Revenue Distribution
 High & Low Performing Regions
 Geographic Sales Trends
 Regional Profitability Analysis
-✅ Payment Method Analysis
+## Payment Method Analysis
 Most Used Payment Methods
 Revenue by Payment Type
 Customer Payment Preferences
 Digital vs Cash Transactions
-✅ Discount Analysis
+## Discount Analysis
 Impact of Discounts on Sales
 Profitability after Discounts
 High Discount Product Trends
 Discount vs Revenue Comparison
-✅ Interactive Visualizations
-KPI Cards
+## Interactive Visualizations
+
 Bar Charts
-Pie Charts
+
 Line Graphs
 Slicers & Filters
-📁 Repository Structure
-Bash
-├── dataset/
-│   └── product_sales.xlsx
-│
-├── dashboard/
-│   └── sales_dashboard.pbix
-│
-├── images/
-│   └── dashboard_preview.png
-│
-└── README.md
-🛠 Tools & Technologies
+
+# Tools & Technologies
 Microsoft Excel
-Power BI / Tableau
+Tableau
 Data Cleaning & Transformation
 Data Visualization
 Business Intelligence Analytics
-📈 Key Insights Generated
+## Key Insights Generated
 The dashboard helps identify:
 Top-performing products and categories
 Best revenue-generating regions
@@ -69,7 +58,7 @@ Customer payment preferences
 Effects of discounts on profitability
 Seasonal sales trends
 Opportunities to improve business performance
-🚀 How to Use
+# How to Use
 1. Clone the Repository
 Bash
 git clone https://github.com/your-username/your-repository-name.git
@@ -89,11 +78,11 @@ Slicers
 Charts
 KPI Metrics
 to analyze sales performance dynamically.
-📷 Dashboard Preview
+## Dashboard Preview
 Add screenshots of your dashboard here.
 Markdown
 ![Dashboard Preview](images/dashboard_preview.png)
-🎯 Project Objective
+# Project Objective
 The goal of this project is to convert raw sales data into actionable insights using business intelligence and interactive visual analytics.
 This dashboard enables efficient monitoring of:
 Sales performance
@@ -101,14 +90,14 @@ Product demand
 Regional growth
 Payment behavior
 Discount effectiveness
-🤝 Contributing
+# Contributing
 Contributions and suggestions are welcome.
 Fork the repository
 Create a feature branch
 Commit your changes
 Submit a pull request
-📄 License
+# License
 This project is licensed under the MIT License.
-👤 Author
+# Author
 Your Name
 GitHub: https://github.com/your-username

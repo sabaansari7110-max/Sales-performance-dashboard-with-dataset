@@ -3,60 +3,66 @@ A data analytics project that uses a product sales Excel dataset (.xlsx) and an 
 
 # Project Overview
 This repository contains:
-Product Sales Dataset (.xlsx)
-Sales transactions
-Product categories
-Customer and regional information
-Payment methods
-Discount details
-Interactive Dashboard Built using Excel / Power BI / Tableau to provide visual insights into sales and business performance.
-The dashboard helps businesses monitor KPIs, identify trends, and make data-driven decisions.
-# Dashboard Features
-## Sales Performance Analysis
-Total Revenue
-Total Profit
-Sales Growth Trends
-Monthly & Quarterly Analysis
-## Product Category Insights
-Best-Selling Categories
-Top Products by Revenue
-Category-wise Profit Analysis
-Product Performance Comparison
-## Regional Sales Insights
-Region-wise Revenue Distribution
-High & Low Performing Regions
-Geographic Sales Trends
-Regional Profitability Analysis
-## Payment Method Analysis
-Most Used Payment Methods
-Revenue by Payment Type
-Customer Payment Preferences
-Digital vs Cash Transactions
-## Discount Analysis
-Impact of Discounts on Sales
-Profitability after Discounts
-High Discount Product Trends
-Discount vs Revenue Comparison
+~Product Sales Dataset (.xlsx)
+~Sales transactions
+~Product categories
+~Customer and regional information
+~Payment methods
+~Discount details
+~Interactive Dashboard Built using Excel / Power BI / Tableau to provide visual insights into sales and business performance.
+~The dashboard helps businesses monitor KPIs, identify trends, and make data-driven decisions.
+
+# Dashboards
+## Dashboard1: Sales Performance Analysis
+**Bob and Alice in total revenue, whilw Retail and Wholesale customers contribute almost equally to overall sales. **
+**KOIs:** Total Revenue-Total Orders- avg Order value.
+**Charts:**
+-Total Sales by salesperson
+-sales by customer type
+
+## Dashboard2: Customer & payment behavior
+**Online is the most used Payment method at 21.5%, while Retails customers receive slightly higher discounts (7.6%) compared to Wholesale (7.0%). **
+**KPIs:** Total Customers- Avg Discount
+**Charts;**
+-Payment method Breadkdown (Pie chart)
+-Avg Discount by customer type
+
+## Dashboard3: Promotions & returns
+**FREESHIP is the top performing promotion, while approximately 24.7% of orders were returned - a key area to investigate. **
+**KPIs:** Total Returns- Return Rate%
+**Charts:**
+-Revenue by Promotion
+-Return rate(Yes vs No)
+
+## Dashboard4: Regional & Product Performance
+**North region leads in revenue at $9667K managed by Ryan, while Printer and Laptop are the top selling products. **
+**KPIs:** Top Regions table
+**Charts:**
+-Sales by Region
+-Sales by Product
+-Sales by Regio Manager
+
+
 ## Interactive Visualizations
 
 Bar Charts
-
-Line Graphs
+Pie Charts
 Slicers & Filters
 
 # Tools & Technologies
-Microsoft Excel
+Only office(Excel)
 Tableau
 Data Cleaning & Transformation
 Data Visualization
 Business Intelligence Analytics
+
 ## Key Insights Generated
 The dashboard helps identify:
 Top-performing products and categories
 Best revenue-generating regions
 Customer payment preferences
 Effects of discounts on profitability
-Seasonal sales trends
+
 Opportunities to improve business performance
 # How to Use
 1. Clone the Repository
@@ -69,13 +75,13 @@ Bash
 https://github.com/sabaansari7110-max/Products-sales.git
 3. Open the Dashboard
 Use the appropriate software:
-Power BI Desktop (.pbix)
+
 Microsoft Excel Dashboard
 Tableau Workbook
 4. Explore Insights
 Interact with:
 Filters
-Slicers
+
 Charts
 KPI Metrics
 to analyze sales performance dynamically.

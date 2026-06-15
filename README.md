@@ -128,10 +128,10 @@ Tableau Workbook
 
 ## Dashboard Preview
 Add screenshots of your dashboard here.
-Markdown
+```Markdown
 ![Dashboard Preview]
 (Dashboard/Dashboard 1 (5).png)
-
+```
 # Project Objective
 The goal of this project is to convert raw sales data into actionable insights using business intelligence and interactive visual analytics.
 <br>

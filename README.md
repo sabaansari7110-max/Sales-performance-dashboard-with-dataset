@@ -5,21 +5,21 @@ A data analytics project that uses a product sales Excel dataset (.xlsx) and an 
 <br>
 This repository contains:
 <br>
-~Product Sales Dataset (.xlsx)
+•Product Sales Dataset (.xlsx)
 <br>
-~Sales transactions
+•Sales transactions
 <br>
-~Product categories
+•Product categories
 <br>
-~Customer and regional information
+•Customer and regional information
 <br>
-~Payment methods
+•Payment methods
 <br>
-~Discount details
+•Discount details
 <br>
-~Interactive Dashboard Built using Excel / Power BI / Tableau to provide visual insights into sales and business performance.
+•Interactive Dashboard Built using Excel / Power BI / Tableau to provide visual insights into sales and business performance.
 <br>
-~The dashboard helps businesses monitor KPIs, identify trends, and make data-driven decisions.
+°The dashboard helps businesses monitor KPIs, identify trends, and make data-driven decisions.
 
 # Dashboards
 ## Dashboard1: Sales Performance Analysis
@@ -30,9 +30,9 @@ Bob and Alice in total revenue, whilw Retail and Wholesale customers contribute 
 <br>
 **Charts:**
 <br>
--Total Sales by salesperson
+°Total Sales by salesperson
 <br>
--sales by customer type
+°sales by customer type
 
 ## Dashboard2: Customer & payment behavior
 Online is the most used Payment method at 21.5%, while Retails customers receive slightly higher discounts (7.6%) compared to Wholesale (7.0%). 
@@ -41,9 +41,9 @@ Online is the most used Payment method at 21.5%, while Retails customers receive
 <br>
 **Chart:**
 <br>
--Payment method Breadkdown (Pie chart)
+°Payment method Breadkdown (Pie chart)
 <br>
--Avg Discount by customer type
+°Avg Discount by customer type
 
 ## Dashboard3: Promotions & returns
 <br>
@@ -53,9 +53,9 @@ FREESHIP is the top performing promotion, while approximately 24.7% of orders we
 <br>
 **Charts:**
 <br>
--Revenue by Promotion
+°Revenue by Promotion
 <br>
--Return rate(Yes vs No)
+°Return rate(Yes vs No)
 
 ## Dashboard4: Regional & Product Performance
 <br>
@@ -65,11 +65,11 @@ North region leads in revenue at $9667K managed by Ryan, while Printer and Lapto
 <br>
 **Charts:**
 <br>
--Sales by Region
+°Sales by Region
 <br>
--Sales by Product
+°Sales by Product
 <br>
--Sales by Regio Manager
+°Sales by Regio Manager
 
 
 ## Interactive Visualizations
@@ -130,22 +130,36 @@ Tableau Workbook
 Add screenshots of your dashboard here.
 Markdown
 ![Dashboard Preview](images/dashboard_preview.png)
+
 # Project Objective
 The goal of this project is to convert raw sales data into actionable insights using business intelligence and interactive visual analytics.
+<br>
 This dashboard enables efficient monitoring of:
-Sales performance
-Product demand
-Regional growth
-Payment behavior
-Discount effectiveness
+<br>
+•Sales performance
+<br>
+•Product demand
+<br>
+•Regional growth
+<br>
+•Payment behavior
+<br>
+•Discount effectiveness
+
 # Contributing
 Contributions and suggestions are welcome.
-Fork the repository
-Create a feature branch
-Commit your changes
-Submit a pull request
+<br>
+•Fork the repository
+<br>
+•Create a feature branch
+<br>
+•Commit your changes
+<br>
+•Submit a pull request
+
 # License
 This project is licensed under the MIT License.
+
 # Author
 Saba Ansari
 <br>

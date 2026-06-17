@@ -66,6 +66,7 @@ FREESHIP is the top performing promotion, while approximately 24.7% of orders we
 <br>
 North region leads in revenue at $9667K managed by Ryan, while Printer and Laptop are the top selling products. 
 <br>
+
 **KPIs:** Top Regions table
 <br>
 **Charts:**
@@ -132,13 +133,10 @@ Microsoft Excel Dashboard
 Tableau Workbook
 <br>
 
-## Dashboard Preview
-Add screenshots of your dashboard here.
-Markdown
-![Dashboard Preview]
-
-<img width="1299" height="799" alt="Dashboard 1 (5)" src="https://github.com/user-attachments/assets/f2ae5989-e05c-4ccc-94b4-79b38531c830" />
-
+## Dashboard Tableau Preview
+```URL
+https://public.tableau.com/app/profile/saba.ansari3517/viz/SalesPerformance_17800616458780/Story1
+```
 
 # Project Objective
 The goal of this project is to convert raw sales data into actionable insights using business intelligence and interactive visual analytics.

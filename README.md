@@ -26,6 +26,7 @@ This repository contains:
 <br>
 Bob and Alice in total revenue, whilw Retail and Wholesale customers contribute almost equally to overall sales. 
 <br>
+
 **KOIs:** Total Revenue-Total Orders- avg Order value.
 <br>
 **Charts:**
@@ -49,6 +50,7 @@ Online is the most used Payment method at 21.5%, while Retails customers receive
 <br>
 FREESHIP is the top performing promotion, while approximately 24.7% of orders were returned - a key area to investigate. 
 <br>
+
 **KPIs:** Total Returns- Return Rate%
 <br>
 **Charts:**
@@ -128,10 +130,12 @@ Tableau Workbook
 
 ## Dashboard Preview
 Add screenshots of your dashboard here.
-```Markdown
+Markdown
 ![Dashboard Preview]
-(Dashboard/Dashboard 1 (5).png)
-```
+
+<img width="1299" height="799" alt="Dashboard 1 (5)" src="https://github.com/user-attachments/assets/f2ae5989-e05c-4ccc-94b4-79b38531c830" />
+
+
 # Project Objective
 The goal of this project is to convert raw sales data into actionable insights using business intelligence and interactive visual analytics.
 <br>

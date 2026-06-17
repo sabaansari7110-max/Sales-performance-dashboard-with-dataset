@@ -34,6 +34,7 @@ Bob and Alice in total revenue, whilw Retail and Wholesale customers contribute 
 °Total Sales by salesperson
 <br>
 °sales by customer type
+<img width="1299" height="799" alt="Dashboard 1 (6)" src="https://github.com/user-attachments/assets/5e49b2ae-408b-4af6-a77e-2ac6227b8a52" />
 
 ## Dashboard2: Customer & payment behavior
 Online is the most used Payment method at 21.5%, while Retails customers receive slightly higher discounts (7.6%) compared to Wholesale (7.0%). 
@@ -45,6 +46,7 @@ Online is the most used Payment method at 21.5%, while Retails customers receive
 °Payment method Breadkdown (Pie chart)
 <br>
 °Avg Discount by customer type
+<img width="1299" height="799" alt="Dashboard 2" src="https://github.com/user-attachments/assets/7fcdf538-8100-4eb3-a67a-a6985b61599b" />
 
 ## Dashboard3: Promotions & returns
 <br>
@@ -58,6 +60,7 @@ FREESHIP is the top performing promotion, while approximately 24.7% of orders we
 °Revenue by Promotion
 <br>
 °Return rate(Yes vs No)
+<img width="1299" height="799" alt="Dashboard 3" src="https://github.com/user-attachments/assets/20802aad-3e2f-46b7-a98c-61aef803f38c" />
 
 ## Dashboard4: Regional & Product Performance
 <br>
@@ -72,6 +75,7 @@ North region leads in revenue at $9667K managed by Ryan, while Printer and Lapto
 °Sales by Product
 <br>
 °Sales by Regio Manager
+<img width="1299" height="1299" alt="Dashboard 4" src="https://github.com/user-attachments/assets/cd1e9435-67c8-45b4-b744-f4d4805097fe" />
 
 
 ## Interactive Visualizations

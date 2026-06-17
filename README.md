@@ -116,13 +116,15 @@ Opportunities to improve business performance
 # How to Use
 1. Clone the Repository
 Bash
-https://github.com/sabaansari7110-max/Products-sales.git
+https://github.com/sabaansari7110-max/Sales-performance-dashboard-with-dataset.git
 <br>
 2. Open the Dataset
 3. <br>
 Navigate to the dataset/ folder and open:
-Bash
-https://github.com/sabaansari7110-max/Products-sales.git
+<br>
+
+https://github.com/sabaansari7110-max/Sales-performance-dashboard-with-dataset/tree/b93321c581fce48fb3071e43973ea4174248c99c/Data
+
 <br>
 4. Open the Dashboard
 <br>
@@ -134,9 +136,9 @@ Tableau Workbook
 <br>
 
 ## Dashboard Tableau Preview
-```URL
+
 https://public.tableau.com/app/profile/saba.ansari3517/viz/SalesPerformance_17800616458780/Story1
-```
+
 
 # Project Objective
 The goal of this project is to convert raw sales data into actionable insights using business intelligence and interactive visual analytics.
